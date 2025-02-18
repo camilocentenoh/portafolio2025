@@ -19,7 +19,17 @@
     background-repeat: no-repeat;
     height: 500px;
 }
-#descripcion{
+#subtitulo{
     font-size: xx-large;
     color: #fff;
+}
+#Descripcion{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+#tarjetas{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
 }
